@@ -2,7 +2,7 @@ var Grass;
 var character;
 var gravity = 1;
 var jump = 15;
-var speed = 1;
+var speed = 0.7;
 let x = 40;
 var bgImg;
 var x1 = 0;
